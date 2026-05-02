@@ -1,4 +1,4 @@
-# 🏃 Sprint Time Predictor
+# Sprint Time Predictor
 
 A machine learning model that predicts 100m sprint times based on 
 athlete statistics including training, sleep, strength, and reaction time.
